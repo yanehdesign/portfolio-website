@@ -13,7 +13,7 @@ const Hero: React.FC = () => {
             Hello, I'm
           </h5>
           <h1 className="text-5xl md:text-7xl font-bold text-gray-900 dark:text-white mb-6 opacity-0 animate-fade-in" style={{animationDelay: '0.4s'}}>
-            Emma Richardson
+            Janet Garcia
           </h1>
           <h2 className="text-2xl md:text-3xl font-medium text-gray-700 dark:text-gray-300 mb-8 opacity-0 animate-fade-in" style={{animationDelay: '0.6s'}}>
             Graphic Designer & Visual Artist
