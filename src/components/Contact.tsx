@@ -24,10 +24,10 @@ const Contact: React.FC = () => {
                 <div>
                   <h4 className="text-lg font-medium text-gray-900 dark:text-white mb-1">Email</h4>
                   <a 
-                    href="mailto:hello@emmarichardson.design" 
+                    href="mailto:hello@yanehdesign.com" 
                     className="text-gray-600 dark:text-gray-400 hover:text-pink-600 dark:hover:text-pink-400 transition-colors"
                   >
-                    hello@emmarichardson.design
+                    hello@yanehdesign.com
                   </a>
                 </div>
               </div>
@@ -42,7 +42,7 @@ const Contact: React.FC = () => {
                     href="tel:+11234567890" 
                     className="text-gray-600 dark:text-gray-400 hover:text-pink-600 dark:hover:text-pink-400 transition-colors"
                   >
-                    +1 (123) 456-7890
+                    +1 (307) 220-1192
                   </a>
                 </div>
               </div>
@@ -54,7 +54,7 @@ const Contact: React.FC = () => {
                 <div>
                   <h4 className="text-lg font-medium text-gray-900 dark:text-white mb-1">Location</h4>
                   <p className="text-gray-600 dark:text-gray-400">
-                    San Francisco, California
+                    Portland, Oregon
                   </p>
                 </div>
               </div>
@@ -64,7 +64,7 @@ const Contact: React.FC = () => {
               <h4 className="text-lg font-medium text-gray-900 dark:text-white mb-4">Follow Me</h4>
               <div className="flex gap-4">
                 <a 
-                  href="https://instagram.com" 
+                  href="https://www.instagram.com/yanehdesign?igsh=MTFiaDRucmxtNWI4aQ%3D%3D&utm_source=qr" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="p-3 bg-white dark:bg-gray-700 rounded-full text-gray-600 dark:text-gray-300 hover:text-pink-600 dark:hover:text-pink-400 hover:shadow-md transition-all"
@@ -73,16 +73,7 @@ const Contact: React.FC = () => {
                   <Instagram size={20} />
                 </a>
                 <a 
-                  href="https://dribbble.com" 
-                  target="_blank" 
-                  rel="noopener noreferrer"
-                  className="p-3 bg-white dark:bg-gray-700 rounded-full text-gray-600 dark:text-gray-300 hover:text-pink-600 dark:hover:text-pink-400 hover:shadow-md transition-all"
-                  aria-label="Dribbble"
-                >
-                  <Dribbble size={20} />
-                </a>
-                <a 
-                  href="https://linkedin.com" 
+                  href="https://www.linkedin.com/in/janet-g-7a8245351?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="p-3 bg-white dark:bg-gray-700 rounded-full text-gray-600 dark:text-gray-300 hover:text-pink-600 dark:hover:text-pink-400 hover:shadow-md transition-all"
