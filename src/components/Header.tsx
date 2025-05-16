@@ -36,7 +36,7 @@ const Header: React.FC = () => {
           href="#home" 
           className="text-2xl font-bold text-pink-600 dark:text-pink-400 tracking-tight"
         >
-          portfolio<span className="text-pink-950 dark:text-pink-200">.design</span>
+          yaneh<span className="text-pink-950 dark:text-pink-200">.design</span>
         </a>
         
         {/* Desktop Navigation */}
